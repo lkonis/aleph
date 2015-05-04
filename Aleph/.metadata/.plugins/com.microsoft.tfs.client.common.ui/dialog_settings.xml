@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.microsoft.tfs.client.common.ui.dialogs.workspaces.WorkspaceEditDialogcollapsed">
+		<item value="1" key="VIEWS"/>
+		<item value="796" key="DIALOG_WIDTH"/>
+		<item value="1" key="TIME_COUNTS"/>
+		<item value="12084" key="ACCUMULATED_OPEN_TIME"/>
+		<item value="01/04/15 21:56:03" key="SINCE"/>
+		<item value="440" key="DIALOG_HEIGHT"/>
+		<item value="66" key="DIALOG_ORIGIN_Y"/>
+		<item value="408" key="DIALOG_ORIGIN_X"/>
+	</section>
+	<section name="com.microsoft.tfs.client.common.ui.dialogs.connect.ACSCredentialsDialog">
+		<item value="1" key="VIEWS"/>
+		<item value="488" key="DIALOG_WIDTH"/>
+		<item value="1" key="TIME_COUNTS"/>
+		<item value="56848" key="ACCUMULATED_OPEN_TIME"/>
+		<item value="01/04/15 21:51:01" key="SINCE"/>
+		<item value="582" key="DIALOG_HEIGHT"/>
+		<item value="24" key="DIALOG_ORIGIN_Y"/>
+		<item value="562" key="DIALOG_ORIGIN_X"/>
+	</section>
+	<section name="wizard-TfsImportWizard">
+	</section>
+</section>
